@@ -212,9 +212,3 @@ pip install pywin32
 - **שופר:** חסימת מקש Windows לאחר חזרה למסך נעילה — hook כעת עושה pause/resume במקום stop/start
 - **עודכן:** גרסה v0.0.10 בפוטר מסך הנעילה, בלשונית אודות, ובסרגל הצד
 - **שופר:** פאנל ההגדרות פותח ב-1200×880 (גבוה ורחב יותר)
-
-
-# תמונות
-
-<img width="1920" height="1080" alt="שומר הפתח 1" src="https://github.com/user-attachments/assets/84f872d3-15aa-4bdf-b9f2-15fa5fa2a978" />
-<img width="1201" height="910" alt="שומר הפתח 2" src="https://github.com/user-attachments/assets/320e0b8c-7fae-46bc-90fc-4cff26d94efc" />
